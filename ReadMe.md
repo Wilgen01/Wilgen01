@@ -1,6 +1,5 @@
 <p align="center" width="300">
-   <h2 align="center">Hola 👋! Soy Wilgen García</h2>
-   <br>
+   <h1 align="center">Hola 👋! Soy Wilgen García</h1>
 </p>
 
 
