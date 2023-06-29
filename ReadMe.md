@@ -9,7 +9,7 @@ Desarrollador Frontend con habilidades en Angular, JavaScript y NodeJS. Disfruto
 
 # 🌐 Socials:
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilgengarcia/)
 [![Mi página personal](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=firefox&logoColor=white)](https://wilgen.netlify.app/)
 
 
