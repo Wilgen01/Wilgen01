@@ -26,5 +26,7 @@ Desarrollador Frontend con habilidades en Angular, JavaScript y NodeJS. Disfruto
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
+# 👨‍💻 Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilgen01&layout=compact)
 
 
