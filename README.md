@@ -3,7 +3,7 @@
 </p>
 
 
-Desarrollador Frontend con habilidades en Angular, JavaScript y NodeJS. Disfruto trabajando en equipo para construir soluciones innovadoras que ofrezcan experiencias de usuario fluidas y atractivas. Siempre busco aprender y adquirir nuevas habilidades en el mundo del desarrollo web.
+👨‍💻 +2 años de experiencia como Desarrollador Web FullStack con habilidades en Angular, Ionic, JavaScript, TypeScript, NodeJS y .NET. Apasionado por la creación de soluciones web robustas y escalables. Mi capacidad para adaptarme rápidamente a equipos de trabajo ágiles y para aprender nuevas tecnologías me permite enfrentar desafíos complejos y entregar resultados de calidad. 🌐
 
 
 
